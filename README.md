@@ -4,7 +4,8 @@ INDEX NUMBER: UEB3226122
 
 CLASS BSC. INFORMATION TECHNOLOGY (Level 100 'A')
 
-PROJECT DESCRIPTION :  PAYROLL SYSTEM
+PROJECT DESCRIPTION : 
+PAYROLL SYSTEM :
 The project provides a comprehensive payroll system written in C++, system’s 
 features include the calculation of salaries, deductions, and benefits for both 
 employees and employers. It provides support for managing employee records, 
